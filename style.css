@@ -1,0 +1,19 @@
+body {
+    background-image: url("water.jfif");
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-style: italic;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+#label1 {
+    font-weight: bold;
+    font-style: italic;
+    font-size: 30px;
+}
